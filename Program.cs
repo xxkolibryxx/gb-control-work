@@ -1,4 +1,6 @@
 ﻿string[] initArray = ["Hello", "2", "world", ":-)"];
+// string[] initArray = ["1234", "1567", "-2", "computer science"];
+// string[] initArray = ["Russia", "Denmark", "Kazan"];
 
 static string[] filterArray(string[] array)
 {
@@ -12,3 +14,9 @@ static string[] filterArray(string[] array)
     }
     return [.. output];
 }
+static void printArrayResult(string[] array)
+{
+    Console.WriteLine("[" + string.Join(", ", array) + "]");
+}
+string[] result = filterArray(initArray);
+printArrayResult(result);
