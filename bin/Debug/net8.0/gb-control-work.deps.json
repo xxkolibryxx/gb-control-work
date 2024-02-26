@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gb-control-work/1.0.0": {
+        "runtime": {
+          "gb-control-work.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gb-control-work/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

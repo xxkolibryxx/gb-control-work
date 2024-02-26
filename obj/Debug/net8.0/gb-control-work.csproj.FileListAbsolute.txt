@@ -1,0 +1,15 @@
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\bin\Debug\net8.0\gb-control-work.exe
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\bin\Debug\net8.0\gb-control-work.deps.json
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\bin\Debug\net8.0\gb-control-work.runtimeconfig.json
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\bin\Debug\net8.0\gb-control-work.dll
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\bin\Debug\net8.0\gb-control-work.pdb
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\gb-control-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\gb-control-work.AssemblyInfoInputs.cache
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\gb-control-work.AssemblyInfo.cs
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\gb-control-work.csproj.CoreCompileInputs.cache
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\gb-control-work.sourcelink.json
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\gb-control-work.dll
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\refint\gb-control-work.dll
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\gb-control-work.pdb
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\gb-control-work.genruntimeconfig.cache
+C:\Users\artyo\OneDrive\Рабочий стол\gb-control-work\obj\Debug\net8.0\ref\gb-control-work.dll
